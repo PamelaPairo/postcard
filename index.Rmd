@@ -1,0 +1,17 @@
+---
+title: "Pamela Pairo"
+image: "pairo.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/pamela-e-pairo-5a2004202/"
+  - label: Twitter
+    url: "https://twitter.com/PamePairo"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I’m community ecologist with particular interest in myrmecology and spatial data analysis.
